@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586200956 source:e:\informatica\sda git\2-dsa\30413\hulpemiruna\7.2dfs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,8 @@
+1-5-7-3-4-6-2
+the minimum distance between 1 and 1 is 0
+the minimum distance between 1 and 2 is 22
+the minimum distance between 1 and 3 is 11
+the minimum distance between 1 and 4 is 19
+the minimum distance between 1 and 5 is 5
+the minimum distance between 1 and 6 is 20
+the minimum distance between 1 and 7 is 5
