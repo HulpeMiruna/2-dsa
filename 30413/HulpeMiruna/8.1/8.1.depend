@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586968087 source:e:\informatica\sda git\2-dsa\30413\hulpemiruna\8.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
