@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588183531 source:e:\informatica\sda git\2-dsa\30413\hulpemiruna\lab9occurances\main.c
+	<stdio.h>
+	<stdlib.h>
+
